@@ -2,3 +2,4 @@ fastapi
 uvicorn
 ultralytics
 mysql-connector-python
+python-multipart
